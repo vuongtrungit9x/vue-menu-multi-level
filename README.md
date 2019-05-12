@@ -1,9 +1,10 @@
 # tomo-fontend-test
 
-## Thay đôi menu động đô sâu không giới hạn
+## Thay đổi menu động với độ sâu không giới hạn
 
 > Nội dung menu được khởi động dưới dạng 1 mảng phẳng, tương tự load từ table
 > Mảng nội dụng phẳng sẽ được convert sang dạng tree để hiển thị menu
+> Thay đổi giá trị mảng menuData trong file src/components/Navbar.vue
 
 ## Project setup
 
